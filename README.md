@@ -1,11 +1,9 @@
 # The Weather Dataset
-### Big Data Analysis with Python
 <p> 
 The Weather Dataset is a time-series dataset with per-hour information about the conditions at a particular location.
 <p>
 
 ## Exploring the Dataset 
-
 ### .head()
 ### .shape
 ### .index
